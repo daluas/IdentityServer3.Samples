@@ -1,0 +1,22 @@
+Hi daluas,
+
+I have noticed that you have been having the same problem as us which is the intermittent "No signin id passed" error when using ADFS.
+I am reaching out to you like this because this seems the only way to contact someone on GitHub.
+
+You posted about it in:
+
+https://github.com/IdentityServer/IdentityServer3/issues/1052
+
+and
+
+https://github.com/IdentityServer/IdentityServer3/issues/1416
+
+This is very frustrating for us and we have been trying to solve it for nearly a year and we can't work out how to fix it. It only happens intermittently.
+
+I would be very grateful if you could tell us whether you were able to resolve this problem for your situation or not.
+
+I can be reached on: martin.klusacek@frontiersoftware.com.au
+
+Thank you very much,
+
+Martin
