@@ -15,6 +15,10 @@ This is very frustrating for us and we have been trying to solve it for nearly a
 
 I would be very grateful if you could tell us whether you were able to resolve this problem for your situation or not.
 
+We have actually discovered why it was happening and we have solved the issue so we can help you solve this issue too now.
+
+It was to do with a bug in IdentityServer 3 where if a request comes in using the wrong case (uppercase/lowercase path) after an App Pool recycle, IdentityServer will use this wrong cookie path in future login requests and therefore all logins will fail.
+
 I can be reached on: martin.klusacek@frontiersoftware.com.au
 
 Thank you very much,
